@@ -1,0 +1,15 @@
+.logo-img{
+    height: 45px;
+}
+.btn-theme{
+    background-color: #fea002;
+}
+.btn-theme-dark,
+.btn-theme-dark:hover{
+    background-color: #333b52;
+    color: #ffffff;
+}
+.signup-title{
+    font-size: 26px;
+    font-weight: 300;
+}
